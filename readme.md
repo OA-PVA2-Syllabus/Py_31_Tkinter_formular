@@ -1,12 +1,7 @@
 # PVA2 - Programování a vývoj aplikací
-## Cvičení 30: GUI Tkinter
+## Cvičení 31: GUI Tkinter
 
 ### 1
-
-
-
-
-### 5
 Vytvořte registrační formulář uživatele, ve kterém se bude zadávat:
 * Jméno
 * Příjmení
@@ -14,4 +9,19 @@ Vytvořte registrační formulář uživatele, ve kterém se bude zadávat:
 * Město
 * PSČ
 
-Po uložení údaje zobrazte uživateli.
+### 2
+
+Rozšiřte formulář o widgety typu:
+
+* text
+* frame
+* checkbutton
+* radiobutton
+* listbox
+
+Popisky a účel dle zvolených preferencí.
+
+### 3
+Rozšiřte aplikaci o zobrazení zadaných informací uživatele:
+* výstup v příkazovém řádku
+* výstup viditelný uživateli např. v okně/dialogu
